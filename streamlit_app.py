@@ -116,7 +116,7 @@ def main():
             pause_threshold=2.0)
         
         if recorded_audio:
-            audio_file_path = "C://Users//mercy.bai//projects//langchain//input_audio_data//recorded_audio.wav"
+            audio_file_path = "recorded_audio.wav"
             with open(audio_file_path, "wb") as f:
                 f.write(recorded_audio)
 
@@ -143,7 +143,7 @@ def main():
                     response = translator.translate(response, translator="bing", from_language="en", 
                                                     to_language=language_code)
                     
-                response_audio_file = "output_audio/answer_audio.mp3"
+                response_audio_file = "answer_audio.mp3"
                 audio_processor.text_to_audio(response, output_file=response_audio_file, language=language_code)
                 st.audio(response_audio_file, format="audio/mp3")
                 st.write(answer, response)
