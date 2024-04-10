@@ -4,7 +4,6 @@ python-dotenv==1.0.1
 faiss-cpu==1.8.0
 SpeechRecognition==3.10.1
 translators==5.9.0
-PyAudio==0.2.14
 gtts==2.5.1
 streamlit==1.32.2
 audio-recorder-streamlit==0.0.8

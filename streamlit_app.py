@@ -7,7 +7,6 @@ from dotenv import load_dotenv
 import os
 import wave
 from gtts import gTTS
-import pyaudio
 import translators as ts
 from langchain_community.document_loaders import TextLoader
 from langchain_openai import ChatOpenAI
