@@ -1,0 +1,127 @@
+The Mechanical, Civil and Electrical Departments are available in SRM Main Campus
+
+Agricultural Department is available in Paparayanpatti
+
+University Building:
+The University Building is present in the SRM University KTR campus. 
+Following are the floor level details of the University Building.
+
+University Building Ground Floor:
+1. Central Library
+2. Canteen
+3. Women's Rest Room
+4. Drinking Water
+5. Disabled Rest Room
+
+University Building 1st floor:
+1. Digital Library
+2. Own Book Reading Hall.
+
+University Building Second Floor:
+1. ID Card Printing Division,
+2. Room No UB205 - International Relations - Business Development
+3. Admission Enquiry
+
+University Building 3rd floor:
+1. SRMIST Admission Office - Engineering/Mamagement/Science and Humanities/ Health Sciences
+
+University Building 4th Floor:
+1. Department of Data Science and Business Systems, School of computing
+2. DBS Office room: Room No 39,
+3. Dr. M. Lakshmi, Professor And Head: Room No 5,
+4. Dr. G. Vadivu Professor: Room No 4,
+5. Dr. Albert Einstein Hall: Room No 38
+6. Dr. C. Lakshmi, Professor - Department of Computational Intelligence: Room No 3,
+7. Department of Data Science and Business Systems: Dr A Murugan Professor, Dr.S. Ganeshkumar Professor - Room No 2
+8. Dr. Vikram Sarabhai Hall - Room No 37
+9. Student counselling Cell - Room No 1
+10. Directorate of Online Education - Prof. (Dr.) Manoranjan Pon Ram - Director Online Education - Room No 36
+11. Dr.M Prakash Associate Professor - Room No 36
+12. Dr.R Rajkumar Assistant Professor - Room No 35
+13. Gents toilet
+14. Ladies toilet
+15. Dr. A. Shanthini : Associate Professor - Room No 32
+16. DOE - CAMTASIA - 1 : Room No 30
+17. SPARC Sponsored Deep Learning Lab - Room No 29
+18. Directorate of Online Education - Room No 19
+19. DOE - Office Room - Room No 24
+20. IT & KM Information Technology & Knowledge Management - Room No 20
+
+University Building 5th floor:
+1. UB 504 Lecture Hall
+2. UB 505 Lecture Hall
+3. Department of Mathematics Staff room - 
+	a. Room No: ub 509/a
+        b. Staff names: Dr. K. Prabakaran, Dr. N. Sivakumar, Dr. D. Prakash, Dr. Santhosh Kumar - Assistant Professor
+4. UB 506 Lecture Hall
+5. UB 507 Lecture Hall 
+6. Department of Mathematics Staff Room - ub 507/a 
+7. UB 513 Lecture Hall
+8. UB 512 Lecture Hall
+9. UB 514 Lecture Hall
+10. UB 511 Lecture Hall
+11. UB 515 Lecture Hall
+12. UB 510 Lecture Hall
+13. Ladies toilet
+14. Use Me dust bins
+15. Department of Mathematics Staff Room - Room No: UB 516
+16. Department of Mathematics - Room No UB 517
+17. Canteen
+18. Drinking water 
+19. Tamizh Academy - Room No UB 518
+20. Gents Toilet
+21. UB 501 Lecture hall
+22. UB 502 Lecture Hall
+23. UB 503 Lecture Hall
+24. UB 509 Lecture Hall
+
+University Building 6th floor:
+1. Department of Physics and Nanotechnology Staff Room - 609/a
+2. UB 603 Lecture Hall
+3. UB 602 Lecture Hall
+4. UB 601 Lecture Hall
+5. Gents Toilet
+6. Department of Physics and Nanotechnology Staff Room - UB 619
+7. UB 618 Lecture Hall
+8. Canteen
+9. Department of Physics and Nanotechnology Library and Conference Hall - UB 617
+10. Department of Physics and Nanotechnology - Dr. D. John Thiruvadigal, Dean Sciences - UB 616
+11. Department of Physics and Nanotechnology - Computer Room UB 617/a 
+12. Drinking water
+13. Ladies Toilet
+14. UB 610 Lecture Hall
+
+7th Floor:
+1. Big Data Analytics Research Center - Room No UB 713
+
+University Building 9th Floor:
+1. Dean of College of Engineering
+
+University Building 12th floor:
+Computational Intelligence Department
+
+University Building 14th floor:
+1. Office of Controller of Examinations
+
+University Building 15th floor:
+1. Vice Chancellor Office
+2. Registrar Office
+
+----------------------------------------------
+Tech Park:
+
+Tech Park 2nd floor:
+1. DPT Section
+
+Tech Park 6th floor:
+1. Chair Person School of Computing Office
+
+Tech Park 8th floor:
+2. Computing Technology Head of Department
+
+Tech Park 9th floor:
+1. ECE Head of Department Office
+
+Tech Park 14th floor:
+1. IMAC Lab
+

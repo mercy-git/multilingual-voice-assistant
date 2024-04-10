@@ -1,0 +1,14 @@
+langchain==0.1.12
+langchain-openai==0.0.8
+python-dotenv==1.0.1
+faiss-cpu==1.8.0
+SpeechRecognition==3.10.1
+translators==5.9.0
+PyAudio==0.2.14
+gtts==2.5.1
+streamlit==1.32.2
+audio-recorder-streamlit==0.0.8
+datasets==2.18.0
+ragas==0.1.6
+openpyxl==3.1.2
+pandas==2.2.1
