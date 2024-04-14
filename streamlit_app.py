@@ -79,8 +79,8 @@ def main():
     # st.sidebar.title("API KEY CONFIGURATION")
     load_dotenv()
     api_key = os.getenv("OPENAI_API_KEY") #st.sidebar.text_input("Enter you OpenAI API Key", type="password")
-    st.title("Multilingual Voice Assistant🤖")
-    st.header("For University Campus Navigation")
+    st.title("Campus Navigator🤖")
+    st.header("Your Multilingual Voice Assistant")
     option = st.selectbox('Language', ('English', 'Tamil', 'Hindi', 'Telugu'))
     
     if api_key:
