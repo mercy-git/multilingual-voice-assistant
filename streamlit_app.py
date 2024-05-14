@@ -27,17 +27,15 @@ class SpeechProcessor:
             text = recognizer.recognize_google(audio_data, language=lang)
             return text
         except sr.UnknownValueError:
-            print("Could not understand audio")
+            st.write("Could not understand audio")
             return None
         except sr.RequestError as e:
-            print(f"Error making the request; {e}")
+            st.write("Error making the request: ", e)
             return None
 
     def text_to_audio(self, text, output_file="output.mp3", language='en'):
         tts = gTTS(text=text, lang=language)
         tts.save(output_file)
-        # Play the audio (optional)
-        # os.system("start " + output_file)
 
 class LanguageTranslator:
     def translate(self, text, translator, from_language, to_language):
@@ -59,13 +57,13 @@ class DocumentProcessor:
 
 class ChatProcessor:
     def __init__(self, api_key):
-        # Chat large language models API
-        self.llm = ChatOpenAI(openai_api_key=api_key) # default model is gpt-3.5-turbo
-        self.prompt = ChatPromptTemplate.from_template("""Answer the following question based only on the provided context:
-        <context>
-        {context}
-        </context>
-        Question: {input}. Frame a sentence providing the building name, floor number and room number if applicable. If you are encountering questions that are not relevant to the conext, please respond that it is not a relevant question to the given context.""")
+        # Chat large language models API, default model is gpt-3.5-turbo
+        self.llm = ChatOpenAI(openai_api_key=api_key) 
+        temp_str = """Answer the Question: {input}. Frame a sentence providing the building name, 
+        floor number and room number if applicable. If you are encountering questions that are not relevant 
+        to the context, please respond that it is not a relevant question to the given context."""
+        self.prompt = ChatPromptTemplate.from_template(temp_str)
+        
 
     def generate_response(self, text, vector):
         document_chain = create_stuff_documents_chain(self.llm, self.prompt)
