@@ -142,7 +142,7 @@ def main():
                 
                 # Translate the response to the respective language from English
                 if option != 'English':
-                    response = translator.translate(response, translator="bing", from_language="en", 
+                    response = translator.translate(response, translator="google", from_language="en", 
                                                     to_language=language_code)
                     
                 response_audio_file = "answer_audio.mp3"
