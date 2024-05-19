@@ -59,7 +59,11 @@ class ChatProcessor:
     def __init__(self, api_key):
         # Chat large language models API, default model is gpt-3.5-turbo
         self.llm = ChatOpenAI(openai_api_key=api_key) 
-        temp_str = """Answer the Question: {input}. Frame a sentence providing the building name, 
+        temp_str = """Answer the following question based only on the provided context:
+        <context>
+        {context}
+        </context>
+        Question: {input}. Frame a sentence providing the building name, 
         floor number and room number if applicable. If you are encountering questions that are not relevant 
         to the context, please respond that it is not a relevant question to the given context."""
         self.prompt = ChatPromptTemplate.from_template(temp_str)
