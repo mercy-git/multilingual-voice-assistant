@@ -76,261 +76,34 @@ University Building 5th floor:
 24. UB 509 Lecture Hall
 
 University Building 6th floor:
-1. Department of Physics and Nanotechnology Staff Room - Room Numbers: UB 609/a and UB 609
-2. Department of Physics and Nanotechnology Library and Conference Hall - Room No: UB 617
-3. Department of Physics and Nanotechnology - Dr. D. John Thiruvadigal, Dean Sciences - Room No: UB 616
-4. Department of Physics and Nanotechnology - Computer Room - - Room No: UB 617/a 
-5. UB 603 Lecture Hall
-6. UB 602 Lecture Hall
-7. UB 601 Lecture Hall
-8. UB 610 Lecture Hall
-9. UB 618 Lecture Hall
-10. Gents Toilet
-11. Canteen
+1. Department of Physics and Nanotechnology Staff Room - 609/a
+2. UB 603 Lecture Hall
+3. UB 602 Lecture Hall
+4. UB 601 Lecture Hall
+5. Gents Toilet
+6. Department of Physics and Nanotechnology Staff Room - UB 619
+7. UB 618 Lecture Hall
+8. Canteen
+9. Department of Physics and Nanotechnology Library and Conference Hall - UB 617
+10. Department of Physics and Nanotechnology - Dr. D. John Thiruvadigal, Dean Sciences - UB 616
+11. Department of Physics and Nanotechnology - Computer Room UB 617/a 
 12. Drinking water
 13. Ladies Toilet
+14. UB 610 Lecture Hall
 
-University Building 7th Floor:
-1. Big Data Analytics Research Center - Room No: UB 713
+7th Floor:
+1. Big Data Analytics Research Center - Room No UB 713
 2. Department of Physics and Nanotechnology research scholars room - Room No: UB 703/a, 
-3. DSBS Programming Laboratory III & Data Viz Laboratory, Faculty In-charge: Dr. K. Arthi, Programmer In-charge: Mrs. K. Bharathy, Ms. P. Sangeetha - Room No: UB 704
-4. Department of Data Science and Business Systems - IOT & Gaming Laboratory - Room No: UB 705
+3. DSBS Programming Laboratory III & Data Viz Laboratory - Room No: UB 704
+4. IOT & Gaming Laboratory, DSBS - Room No: UB 705
 5. Next Tech Lab - Room No: UB 706
 6. Department of Physics and Nanotechnology staff room - Room No: UB 709/a
-        Dr. C. Gopalakrishnan, Ph.D 
-        Dr. Trilochan Sahoo, Ph.D, PDF 
-        Dr. Payel Bandyopadhyay, Ph.D,PDF 
-        Dr. Meenal S. Dec, Ph.D, PDF 
-        Dr. Venkata Ravindra A, Ph.D, PDF 
-        Dr. Anbumozhi Angayarkanni, Ph.D, PDF 
-        Dr. Arul Varman Kesavan, Ph.D, PDF 
-        Dru Bhaskar Chandra Behera, Ph.D, PDF 
-        Dr. Muthuganesan R, Ph.D, PDF 
-        Dr. Subhajit Sarkar, Ph.D, PDF 
-        Dr. Sougata Mallick, PhD, PDF 
 
-7. Centre for Materials Science and Nanodevices, Department of Physics and Nanotechnology - Room No: UB 707
-8. IMAGES - SRM Video Production Laboratory, Mr. P. Gopinath - Senior Manager Finance - Room No: UB 709
-9. Department of Computational Intelligence Centre for Robotic Process Automation - Room No: UB 708
-10. Blockchain Laboratory, Department of Data Science and Business Systems - Room No: UB 712
-11. Intel  Intelligence Systems Lab, Department of Computational Intelligence - Room No: UB 714
-12. Department of Computational Intelligence Center for AI: Room No: UB 711
-13. Department  of Mathematics Staff room, Dr. V. Subburayan - Room No: UB 716
-14. AHU room - Room No: UB 715
-15. SRM Kzilla Mozilla Campus Club - Room No: UB 717
-16. I - B.Sc Physics - Room No: UB717/A.
-17. Department of Mathematics Staff Room - Dr. N. Parvathi Professor - Room No: UB 717/B
-18. Room No: UB 717/C
-        Dr. Pratyush Kumar, Research Assistant Professor
-        Dr. Tapas Barman, Assistant Professor
-        Dr. Sumana Ghosh, Research Assistant Professor
-19. I - B.Sc. Chemistry - Room No: UB 718
-20. III - B.Sc Chemistry - Room No: UB 719
-21. Chemistry Staff room - Room No: UB 701
-        Dr. Baskar Baburaj, Assoc. Prof.  
-        Dr. Samarendra Maji, Res. Assoc. Prof. 
-        Dr. B. Natarajan, Asst. Prof. 
-        Dr. D, Paradesi, Asst. Prof.
-        Dr. E. Sundaravadivel, Asst. Prof.
-        Dr. Palash Sanphui, Asst. Prof.
-22. Department of Computational Intelligence - Software Quality Lab - Room No: UB 703
-23. Ladies Toilet
-24. Drinking Water
-
-University Building 8th floor:
-1. AI Driven Discovery Hub - Room No: UB803
-2. Center for AI in Earth Science, Department of Computational Intelligence - Room No: UB 802
-3. Center for AI in Earth Science and Health Science, Department of Computational Intelligence - Room No: UB 801  
-4. II - B.Sc Chemistry - Room No: UB 823 
-5. UB 822 Lecture Hall
-6. Department of Mathematics Staff Room - Room No: UB821/a
-        Dr. R. Senthamarai, Assistant Professor
-        Dr. D.K. Sheena Christy, Assistant Professor
-        Dr. G. Sheela, Assistant Professor
-        Dr. B. Sudha, Assistant Professor
-7. Department of Physics and Nanotechnology Research Scholars Room - Room No: UB 820
-8. Department of Data Science and Business Systems Department Library - Room No: UB 814 
-9. Department of Mathematics - Room No: UB 821
-        Dr. Meena Parvathy Sankar, Assistant Professor 
-        Dr. A. Anuradha, Assistant Professor
-        Dr. R. Dhanalakshmi, Assistant Professor
-        Dr. S. Thenmozhi, Assistant Professor 
-10. Taiwan-India Living Lab on Big Data Analytics - Room No: UB 813 
-11. UB 819 Lecture Hall
-12. Department of Data Science and Business Systems - DSBS Programming Laboratory I - Room No: UB 815 
-13. UB 818 Lecture Hall
-14. UB 816 Staff room
-15. UB 817 Department of Data Science and Business Systems Data Analytics Laboratory 
-16. III - B.Sc Maths - Room No UB 808 
-17. Dr. S. Sangeetha, Assistant Professor - Department of Mathematics - Room No: UB 809 
-        Dr. G. Vijayalakshmi, Assistant Professor
-        Dr. J. Uma, Assistant Professor 
-        Dr. E. Sujatha, Assistant Professor
-        Dr. G. Lavanya, Assistant Professor 
-        Dr. K. Suja, Assistant Professor 
-        Dr. S. Vidyanandini, Assistant Professor
-        Dr. M. Kousalya, Assistant Professor 
-        Dr. K. Dhanalakshmi, Assistant Professor
-18. Department of Chemistry Staff room - Room No: UB807/B
-19. Girls Common room - Room No: UB807/A 
-20. UB 807 Lecture Hall
-21. UB 806 Lecture Hall
-22. UB 810 Lecture Hall
-23. Electrical Workshop - Room No: UB 805 
-24. I - B.Sc Maths - Room No: UB 811 
-25. Electrical Workshop - Room No: UB 804 
-26. Gents toilet
-27. Ladies Toilet
-28. Drinking Water
-29. Canteen
-
-University Building 9th floor:
-1. Career Development Center - Room No: UB 910
-2. Department of Mathematics Staff room - Room No: UB 921
-        Dr. R. Perumal, Assistant Professor 
-        Dr. P. Godhandaraman, Assistant Professor 
-        Dru R. Arulprakasam, Assistant Professor 
-        Dr. S. Athithan, Assistant Professor 
-        Dr. M. Suresh, Assistant Professor 
-        Dr. G. Arul Joseph, Assistant Professor 
-        Dr. S.K. Thamilvanan, Assistant Professor  
-        Dr. E. Suresh, Assistant Professor 
-        Dr. Vn Muthukumaran, Assistant Professor  
-        Dr. R. Sriraman, Assistant Professor 
-3. II MSc Chemistry - Room No: UB 920
-4. Department of Physics and Nanotechnology - Room No: UB 917
-5. Department of Physics and Nanotechnology  Supported by DST - FIST - Dr. C. Preferential Kala, Associate Professor - Room No: UB 918
-6. Academia Help Desk - Room No: UB 916 
-7. Department of Mathematics Research Scholars Room & Computing Lab - Room No: UB 912 
-        Mr. A. Ramachandran, Research Scholar
-        Ms. Jenita Mary, Research Scholar
-        Mr. T. Sivakumar, Research Scholar
-        Ms. N. Saranya, Research Scholar 
-        Mr. C. Rajapandiyan, Research Scholar 
-        Mr. N. Gunasokaran, Research Scholar 
-        Mr. M. Vijayakumar, Research Scholar 
-        Mr. G. Shankar, Research Scholar 
-        Mr. R Bathmanaban, Research Scholar
-        Mr. Melvin Varghese, Research Scholar
-8. Faculty of Engineering and Technology Administrative Office - Room No: UB 915 
-9. Accounts Section Faculty of Engineering and Technology - Room No: UB 913 
-10. DSBS Faculty room - Room No: UB 908:
-        Dr. E. Sasikala, Professor 
-        Dr. V. Kavitha, Professor 
-        Dr. N. Parthiban, Associate Professor 
-        Dr. B. Arunsundar, Assistant Professor 
-        Dr. C. Tamizhselvan, Assistant Professor 
-        Dr. K.S. Archana, Assistant Professor 
-        Dr. R. Anita Jasmine, Assistant Professor 
-        Dr. D. Prabakar, Assistant Professor 
-        Dr. M. Rajakani, Assistant Professor 
-        Mrs. R. Mythili, Assistant Professor
-11. II B.Sc Physics - Room No: UB 909 
-12. UB 903 Lecture Hall, 
-13. UB 902 Lecture Hall
-14. UB 901 Lecture Hall,
-15. UB 907 Lecture Hall 
-16. UB 906 Lecture Hall 
-17. UB 905 Lecture Hall 
-18. UB 904 Lecture Hall
-19. UB 919 - Lecture Hall
-20. Gents toilet
-21. Drinking water
-22. Ladies Toilet 
-23. Drinking water
-
-University Building 10th floor:
-1. Department of Mathematics Staff room - Room No: UB 1021
-        Dr. N. Balaji, Associate Professor 
-        Dr. P. Sambath, Associate Professor
-        Dr. E.P. Siva, Associate Professor
-        Dr. J. Sasikumar, Assistant Professor
-        Dr. B. Vijayakumar, Assistant Professor 
-        Dr. R.M. Kannan, Assistant Professor
-        Dr. Swaraj Paul, Research Assistant Professor      
-2. Department of Mathematics Staff room - Room No: UB 1020
-        Dr. B. Vennila, Associate Professor 
-        Dr. H. Merlyn Margaret, Assistant Professor
-        Dr. S. Mohanaselvi, Assistant Professor 
-        Dr. C. Abirami, Assistant Professor 
-        Dr. T. Leelavathy, Assistant Professor
-        Dr. V. Vidhya, Assistant Professor
-        Dr. V. Padma, Assistant Professor
-        Dr. V. Suvitha, Assistant Professor 
-        Dr. V. Visalakshi, Assistant Professor 
-        Dr. M. Shafiya, Assistant Professor 
-3. Department of Mathematics Conference Hall - Room No: UB 1018
-4. Department of Mathematics - Room No: UB 1017/a
-5. Dr V Subburayan, MSc PhD Associate Professor & Head
-6. Department of Mathematics, Dr. K. Ganesan Professor - Room No: UB 1018/B
-7. Mathematics Staff Room - Room No: UB 1008/A
-        Dr. L. Shobana, Associate Professor
-        Dr. V. Poongothai, Assistant Professor
-        Dr. E. Melita Vinoliah, Assistant Professor
-        Dr. G. Krishnaveni, Assistant Professor
-        Dr. P. Uma Maheswari, Assistant Professor 
-        Dr.T. Nirmala, Assistant Professor
-        Saraswathi Sudha, Assistant Professor
-        Mrs. R. Kalaiyarasi, Assistant Professor 
-8. UB1001 Lecture  Hall
-9. UB1002 Lecture Hall
-10. UB1003 Lecture Hall
-11. UB1004 Lecture Hall
-12. UB1005 Lecture Hall 
-13. UB1006 Lecture Hall 
-14. UB1007 Lecture Hall 
-15. UB1009 Lecture Hall 
-16. UB1011 Lecture Hall 
-17. UB1012 Lecture Hall 
-18. UB1013 Lecture Hall
-19. UB1014 Lecture Hall
-20. UB1015 Lecture Hall  
-21. UB1016 Lecture Hall 
-22. UB1019 Lecture Hall 
-23. Ladies Toilet 
-24. Drinking Water
-25. Gents toilet 
-
-University Building 11th floor:
-1. Alexa hall Room No: UB 1111 
-2. UB 1116 Lecture Hall 
-3. Tripan, 13 directorate of learning and development - Room No: UB 1112
-4. Directorate of Learning and Development Interactive Studio - Room No: UB 1114
-5. Department of English and Foreign Languages - Room No: UB 1108
-6. Room No: UB 1107
-7. Room No: UB 1106
-8. Department of Computational Intelligence Staff Room - UB 1105
-9. Department Computational Intelligence Teachings Staff room - Room No: UB 1109/a
-10. Department of Computing Technology Staff Room - Room No: UB 1104
-11. Department of Computational Intelligence - Room No: UB 1103/a 
-12. Gents toilet 
+University Building 9th Floor:
+1. Dean of College of Engineering
 
 University Building 12th floor:
-1. Department of Chemistry Staff Room - Room No: UB 1210
-2. Department of Computational Intelligence HOD office - Room No: UB 1223
-3. Department of Chemistry Staff Room
-4. Doctor R Jayalakshmi, Professor - Room No: UB 1224 
-5. Optical Lithography Lab - Room No: UB 1202
-6. Department of English and Foreign Languages Research Scholars - Room No: UB 1201
-7. Department of Chemistry Staff Room - Room No: UB 1221
-8. Department of chemistry staff from - Room No: UB 1220
-9. Chemistry seminar hall - Room No: 1218
-10. Department of Chemistry supported by DS.T FI ST Doctor M. Arthanareeswari Professor - Room No: UB 1217/a 
-11. Department of Chemistry supported by DS. T FI ST Doctor M. Arthanareeswari Professor and Head - Room No: UB 1217/b
-12. UB 1211 Lecture Hall  
-13. UB 1216 Lecture Hall
-14. DSBS programming laboratory II - Room No: UB 1215
-15. Department of Computational Intelligence Computer Technology Lab - Room No: UB 1213
-16. Department of Computational Intelligence AI Robo Lab - Room No: UB 1214
-17. Department of Chemistry Staff Room - Room No: UB 1208
-18. UB 1207 Lecture Hall 
-19. UB 1206 Lecture Hall
-20. UB 1205 Lecture Hall 
-21. Department of Computational Intelligence Programming Language Laboratory - Room No: UB 1209
-22. Department of Computational Intelligence Teaching Staff Room - Room No: UB 1204
-23. Ladies toilet
-24. Drinking water
-25. Gents Toilet
+Computational Intelligence Department
 
 University Building 14th floor:
 1. Office of Controller of Examinations
@@ -339,7 +112,7 @@ University Building 15th floor:
 1. Vice Chancellor Office
 2. Registrar Office
 
--------------------------------------------------------------------------------------------------
+----------------------------------------------
 Tech Park:
 
 Tech Park 2nd floor:
